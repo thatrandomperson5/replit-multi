@@ -71,4 +71,4 @@ An attempt at auto updates.
 
 Fix should be to replace all `multi` in commands with `multi.bin`
 ### Multi not found error:
-Run setuptools again depending on how you installed multi.
+Run setuptools.sh again depending on how you installed multi.
